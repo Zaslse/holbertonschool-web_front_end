@@ -1,0 +1,25 @@
+/* Techium - CSS Advanced - Task 2 */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #161616;
+}
+
+a {
+  color: #161616;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+.section-tagline {
+  color: #D73953;
+}
+
+.card-category {
+  color: #D73953;
+}
